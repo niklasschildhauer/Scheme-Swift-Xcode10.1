@@ -1,0 +1,146 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SchemeSymbolTableProtocol"
+- "SymbolTable"
+provides-nominal:
+- "22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP"
+- "22Scheme_Swift_Xcode10_111SymbolTableC"
+provides-member:
+- ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", ""]
+- ["22Scheme_Swift_Xcode10_111SymbolTableC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "+"
+- !private "/"
+- !private ">"
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- "HashTable"
+- "Int"
+- "IntegerLiteralType"
+- "SchemeSymbol"
+- "SchemeSymbolTableProtocol"
+- "String"
+- "SymbolTable"
+depends-member:
+- !private ["Sa", "forEach"]
+- !private ["s13ArrayProtocolP", "forEach"]
+- !private ["SK", "forEach"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["Sl", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "forEach"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "forEach"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "characters"]
+- !private ["SQ", "forEach"]
+- !private ["SQ", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["22Scheme_Swift_Xcode10_19HashTableV", "getAllElements"]
+- !private ["22Scheme_Swift_Xcode10_19HashTableV", "init"]
+- !private ["22Scheme_Swift_Xcode10_19HashTableV", "maxCapacity"]
+- !private ["22Scheme_Swift_Xcode10_19HashTableV", "new"]
+- !private ["22Scheme_Swift_Xcode10_19HashTableV", "size"]
+- !private ["22Scheme_Swift_Xcode10_19HashTableV", "value"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "characters"]
+- !private ["SH", "forEach"]
+- !private ["SH", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["SM", "forEach"]
+- !private ["Sk", "forEach"]
+- !private ["Sm", "forEach"]
+- !private ["22Scheme_Swift_Xcode10_10A6SymbolC", "characters"]
+- !private ["22Scheme_Swift_Xcode10_10A6SymbolC", "init"]
+- !private ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "HashTable"]
+- ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "Int"]
+- ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "SchemeSymbol"]
+- ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "String"]
+- ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", ""]
+- !private ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "fillLimit"]
+- ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "getOrCreate"]
+- !private ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "grow"]
+- !private ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "growFactor"]
+- !private ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "init_symbol_table_size"]
+- !private ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "knownSymbols"]
+- ["22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP", "size"]
+- !private ["ST", "forEach"]
+- ["22Scheme_Swift_Xcode10_111SymbolTableC", "HashTable"]
+- ["22Scheme_Swift_Xcode10_111SymbolTableC", "Int"]
+- ["22Scheme_Swift_Xcode10_111SymbolTableC", "SchemeSymbol"]
+- ["22Scheme_Swift_Xcode10_111SymbolTableC", "String"]
+- ["22Scheme_Swift_Xcode10_111SymbolTableC", "deinit"]
+- !private ["22Scheme_Swift_Xcode10_111SymbolTableC", "fillLimit"]
+- ["22Scheme_Swift_Xcode10_111SymbolTableC", "getOrCreate"]
+- !private ["22Scheme_Swift_Xcode10_111SymbolTableC", "grow"]
+- !private ["22Scheme_Swift_Xcode10_111SymbolTableC", "growFactor"]
+- ["22Scheme_Swift_Xcode10_111SymbolTableC", "init"]
+- !private ["22Scheme_Swift_Xcode10_111SymbolTableC", "init_symbol_table_size"]
+- !private ["22Scheme_Swift_Xcode10_111SymbolTableC", "knownSymbols"]
+- ["22Scheme_Swift_Xcode10_111SymbolTableC", "size"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "22Scheme_Swift_Xcode10_19HashTableV"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- !private "Sk"
+- !private "Sm"
+- !private "22Scheme_Swift_Xcode10_10A6SymbolC"
+- "22Scheme_Swift_Xcode10_10A19SymbolTableProtocolP"
+- !private "ST"
+- "22Scheme_Swift_Xcode10_111SymbolTableC"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "735a01996fc8adf574b19108e6ef71f3"

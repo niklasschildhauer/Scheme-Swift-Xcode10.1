@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1384F166-0432-4CC3-AA2C-6DBBED2A5514</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1384F166-0432-4CC3-AA2C-6DBBED2A5514.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651179863.81157994</real>
+			<key>timeStoppedRecording</key>
+			<real>651179960.42513394</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>1384F166-0432-4CC3-AA2C-6DBBED2A5514</string>
+		</dict>
+		<key>37D1A316-F02C-4A4D-891A-A40A892B89B9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>37D1A316-F02C-4A4D-891A-A40A892B89B9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651178940.39710104</real>
+			<key>timeStoppedRecording</key>
+			<real>651179011.99412203</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>37D1A316-F02C-4A4D-891A-A40A892B89B9</string>
+		</dict>
+		<key>3AD8897D-90B6-4FFE-B59E-8D4D6497AED6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3AD8897D-90B6-4FFE-B59E-8D4D6497AED6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651179613.71464097</real>
+			<key>timeStoppedRecording</key>
+			<real>651179775.15313303</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>3AD8897D-90B6-4FFE-B59E-8D4D6497AED6</string>
+		</dict>
+		<key>439493F9-69E9-4835-B206-62CA7AF03D3C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>439493F9-69E9-4835-B206-62CA7AF03D3C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651179960.53871</real>
+			<key>timeStoppedRecording</key>
+			<real>651180292.84958506</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>439493F9-69E9-4835-B206-62CA7AF03D3C</string>
+		</dict>
+		<key>B02FD44F-A3C1-450D-A29B-B7BE42E8372D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B02FD44F-A3C1-450D-A29B-B7BE42E8372D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651176471.51288795</real>
+			<key>timeStoppedRecording</key>
+			<real>651177000.46773601</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>B02FD44F-A3C1-450D-A29B-B7BE42E8372D</string>
+		</dict>
+		<key>BF77BDCB-B0B6-48A0-BC8C-93E03F222477</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BF77BDCB-B0B6-48A0-BC8C-93E03F222477.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651179823.52024806</real>
+			<key>timeStoppedRecording</key>
+			<real>651179848.79236996</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>BF77BDCB-B0B6-48A0-BC8C-93E03F222477</string>
+		</dict>
+		<key>CB845CBC-3A48-4EBB-A300-D31EDB3012F9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CB845CBC-3A48-4EBB-A300-D31EDB3012F9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651179387.64061701</real>
+			<key>timeStoppedRecording</key>
+			<real>651179535.37237704</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>CB845CBC-3A48-4EBB-A300-D31EDB3012F9</string>
+		</dict>
+		<key>D513316C-259E-4AB0-97BA-7E49776D2D43</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D513316C-259E-4AB0-97BA-7E49776D2D43.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651179538.02018797</real>
+			<key>timeStoppedRecording</key>
+			<real>651179613.60555601</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>D513316C-259E-4AB0-97BA-7E49776D2D43</string>
+		</dict>
+		<key>E257C187-20B1-4597-A006-E2DAA0EA1318</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E257C187-20B1-4597-A006-E2DAA0EA1318.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651177446.79741895</real>
+			<key>timeStoppedRecording</key>
+			<real>651178940.28636503</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>E257C187-20B1-4597-A006-E2DAA0EA1318</string>
+		</dict>
+		<key>E5E8BFF9-2FEB-48A2-8A57-A967D650D719</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E5E8BFF9-2FEB-48A2-8A57-A967D650D719.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651179848.90553498</real>
+			<key>timeStoppedRecording</key>
+			<real>651179861.14096904</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>E5E8BFF9-2FEB-48A2-8A57-A967D650D719</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

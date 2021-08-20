@@ -1,0 +1,312 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Evaluator"
+provides-nominal:
+- "22Scheme_Swift_Xcode10_19EvaluatorC"
+provides-member:
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "Environment"
+- "Evaluator"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Object"
+- "SchemeCons"
+- "SchemeEnvironment"
+- "SchemeEvaluatorProtocol"
+- "SchemeSyntax"
+- "Stack"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+- !private "car"
+- !private "cdr"
+- !private "cons"
+- !private "display"
+- !private "eq"
+- !private "eqnr"
+- !private "gtnr"
+- !private "minus"
+- !private "plus"
+- !private "stnr"
+- !private "times"
+- !private "||"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["22Scheme_Swift_Xcode10_111EnvironmentC", "deinit"]
+- !private ["22Scheme_Swift_Xcode10_111EnvironmentC", "init"]
+- !private ["22Scheme_Swift_Xcode10_111EnvironmentC", "insertOrUpdate"]
+- ["SQ", "Begin"]
+- ["SQ", "BuiltInFunction"]
+- ["SQ", "Cons"]
+- ["SQ", "Define"]
+- !private ["SQ", "Error"]
+- ["SQ", "False"]
+- ["SQ", "If"]
+- ["SQ", "Lambada"]
+- !private ["SQ", "Null"]
+- ["SQ", "Quote"]
+- ["SQ", "Set"]
+- ["SQ", "Symbol"]
+- ["SQ", "Syntax"]
+- ["SQ", "True"]
+- ["SQ", "UserDefinedFunction"]
+- !private ["SQ", "Void"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "car"]
+- !private ["SQ", "cdr"]
+- !private ["SQ", "characters"]
+- !private ["SQ", "consObject"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "symbolObject"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "Bool"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "Environment"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "Object"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "SchemeCons"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "SchemeEnvironment"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "SchemeSyntax"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "Stack"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "car"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "cdr"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "cons"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "deinit"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "display"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "eq"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "eqnr"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "eval"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "evalFunction"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "evalStack"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "evalSyntax"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "evalUserDefinedFunction"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "gtnr"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "init"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "initializeBuiltInFunctions"]
+- ["22Scheme_Swift_Xcode10_19EvaluatorC", "initializeBuiltInSyntax"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "isValidFormalArgList"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "minus"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "plus"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "stnr"]
+- !private ["22Scheme_Swift_Xcode10_19EvaluatorC", "times"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "Begin"]
+- ["SH", "Define"]
+- ["SH", "If"]
+- ["SH", "Lambada"]
+- ["SH", "Quote"]
+- ["SH", "Set"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "characters"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- ["22Scheme_Swift_Xcode10_16ObjectO", "BuiltInFunction"]
+- ["22Scheme_Swift_Xcode10_16ObjectO", "Cons"]
+- !private ["22Scheme_Swift_Xcode10_16ObjectO", "Error"]
+- ["22Scheme_Swift_Xcode10_16ObjectO", "False"]
+- !private ["22Scheme_Swift_Xcode10_16ObjectO", "Null"]
+- ["22Scheme_Swift_Xcode10_16ObjectO", "Symbol"]
+- ["22Scheme_Swift_Xcode10_16ObjectO", "Syntax"]
+- ["22Scheme_Swift_Xcode10_16ObjectO", "True"]
+- ["22Scheme_Swift_Xcode10_16ObjectO", "UserDefinedFunction"]
+- !private ["22Scheme_Swift_Xcode10_16ObjectO", "Void"]
+- !private ["22Scheme_Swift_Xcode10_16ObjectO", "consObject"]
+- !private ["22Scheme_Swift_Xcode10_16ObjectO", "deinit"]
+- !private ["22Scheme_Swift_Xcode10_16ObjectO", "symbolObject"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- ["SY", "Begin"]
+- ["SY", "Define"]
+- ["SY", "If"]
+- ["SY", "Lambada"]
+- ["SY", "Quote"]
+- ["SY", "Set"]
+- !private ["22Scheme_Swift_Xcode10_10A4ConsC", "car"]
+- !private ["22Scheme_Swift_Xcode10_10A4ConsC", "cdr"]
+- !private ["22Scheme_Swift_Xcode10_10A11EnvironmentP", "get"]
+- !private ["22Scheme_Swift_Xcode10_10A11EnvironmentP", "init"]
+- !private ["22Scheme_Swift_Xcode10_10A11EnvironmentP", "insertOrUpdate"]
+- !private ["22Scheme_Swift_Xcode10_10A11EnvironmentP", "update"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "Environment"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "Object"]
+- ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "Stack"]
+- ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", ""]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "car"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "cdr"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "cons"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "display"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "eq"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "eqnr"]
+- ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "eval"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "evalFunction"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "evalStack"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "evalSyntax"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "evalUserDefinedFunction"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "gtnr"]
+- ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "initializeBuiltInFunctions"]
+- ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "initializeBuiltInSyntax"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "isValidFormalArgList"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "minus"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "plus"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "stnr"]
+- !private ["22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP", "times"]
+- !private ["22Scheme_Swift_Xcode10_10A8FunctionV", "code"]
+- !private ["22Scheme_Swift_Xcode10_10A8FunctionV", "init"]
+- !private ["22Scheme_Swift_Xcode10_10A8FunctionV", "init"]
+- !private ["22Scheme_Swift_Xcode10_10A6SymbolC", "characters"]
+- !private ["22Scheme_Swift_Xcode10_10A6SymbolC", "deinit"]
+- !private ["22Scheme_Swift_Xcode10_10A6SymbolC", "init"]
+- !private ["22Scheme_Swift_Xcode10_10A6SymbolC", "init"]
+- !private ["22Scheme_Swift_Xcode10_10A6SyntaxV", "init"]
+- !private ["22Scheme_Swift_Xcode10_10A6SyntaxV", "init"]
+- !private ["22Scheme_Swift_Xcode10_10A6SyntaxV", "type"]
+- !private ["22Scheme_Swift_Xcode10_10A19UserDefinedFunctionV", "argList"]
+- !private ["22Scheme_Swift_Xcode10_10A19UserDefinedFunctionV", "bodyList"]
+- !private ["22Scheme_Swift_Xcode10_10A19UserDefinedFunctionV", "homeEnvironment"]
+- !private ["22Scheme_Swift_Xcode10_10A19UserDefinedFunctionV", "init"]
+- !private ["22Scheme_Swift_Xcode10_10A19UserDefinedFunctionV", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["22Scheme_Swift_Xcode10_15StackC", "currentPointer"]
+- !private ["22Scheme_Swift_Xcode10_15StackC", "getObjects"]
+- ["22Scheme_Swift_Xcode10_15StackC", "init"]
+- !private ["22Scheme_Swift_Xcode10_15StackC", "push"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- ["22Scheme_Swift_Xcode10_110SyntaxTypeO", "Begin"]
+- ["22Scheme_Swift_Xcode10_110SyntaxTypeO", "Define"]
+- ["22Scheme_Swift_Xcode10_110SyntaxTypeO", "If"]
+- ["22Scheme_Swift_Xcode10_110SyntaxTypeO", "Lambada"]
+- ["22Scheme_Swift_Xcode10_110SyntaxTypeO", "Quote"]
+- ["22Scheme_Swift_Xcode10_110SyntaxTypeO", "Set"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "22Scheme_Swift_Xcode10_111EnvironmentC"
+- "SQ"
+- "22Scheme_Swift_Xcode10_19EvaluatorC"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "22Scheme_Swift_Xcode10_16ObjectO"
+- !private "Sm"
+- "SY"
+- !private "22Scheme_Swift_Xcode10_10A4ConsC"
+- !private "22Scheme_Swift_Xcode10_10A11EnvironmentP"
+- "22Scheme_Swift_Xcode10_10A17EvaluatorProtocolP"
+- !private "22Scheme_Swift_Xcode10_10A8FunctionV"
+- !private "22Scheme_Swift_Xcode10_10A6SymbolC"
+- !private "22Scheme_Swift_Xcode10_10A6SyntaxV"
+- !private "22Scheme_Swift_Xcode10_10A19UserDefinedFunctionV"
+- !private "ST"
+- "22Scheme_Swift_Xcode10_15StackC"
+- !private "SS"
+- !private "Sy"
+- "22Scheme_Swift_Xcode10_110SyntaxTypeO"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/heiko/Downloads/Xcode 2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1e609694090367344f9f941126679dd7"
