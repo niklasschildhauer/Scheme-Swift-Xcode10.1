@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "681e6a8415d2e880928c3528cbf9e689"
-build_time: [1629487493, 13024000]
+build_time: [1629488274, 433854000]
 inputs:
   "/Users/heiko/Documents/GitHub/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Extension.swift": [1629481710, 0]
   "/Users/heiko/Documents/GitHub/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Evaluator/Stack.swift": [1629483377, 0]
@@ -10,7 +10,7 @@ inputs:
   "/Users/heiko/Documents/GitHub/Scheme-Swift/Sources/Scheme/main.swift": [1629482172, 0]
   "/Users/heiko/Documents/GitHub/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Evaluator/Evaluator.swift": [1629483343, 0]
   "/Users/heiko/Documents/GitHub/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/SymbolTable.swift": [1629483401, 0]
-  "/Users/heiko/Documents/GitHub/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Interpreter.swift": [1629484200, 0]
+  "/Users/heiko/Documents/GitHub/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Interpreter.swift": [1629488274, 0]
   "/Users/heiko/Documents/GitHub/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Selftest.swift": [1629482561, 0]
   "/Users/heiko/Documents/GitHub/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Evaluator/TrampolineEvaluator.swift": [1629483119, 0]
   "/Users/heiko/Documents/GitHub/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/Scheme-Swift-Xcode10.1/HashTable.swift": [1629483130, 0]

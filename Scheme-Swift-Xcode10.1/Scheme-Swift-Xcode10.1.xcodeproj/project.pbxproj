@@ -21,15 +21,17 @@
 		427D0A1526D027CA00B349D5 /* Evaluator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427D0A0126D0235600B349D5 /* Evaluator.swift */; };
 		427D0A1626D027D000B349D5 /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427D0A0226D0235600B349D5 /* Stack.swift */; };
 		427D0A1726D027EE00B349D5 /* TrampolineEvaluator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427D0A0526D0235600B349D5 /* TrampolineEvaluator.swift */; };
+		427D0A1D26D03BB900B349D5 /* init.scm in CopyFiles */ = {isa = PBXBuildFile; fileRef = 427D0A1A26D0298000B349D5 /* init.scm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		427D09EB26D0233900B349D5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 12;
-			dstPath = /usr/share/man/man1;
-			dstSubfolderSpec = 0;
+			dstPath = "";
+			dstSubfolderSpec = 6;
 			files = (
+				427D0A1D26D03BB900B349D5 /* init.scm in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,7 +55,6 @@
 		427D0A0626D0235600B349D5 /* BuiltInFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuiltInFunctions.swift; sourceTree = "<group>"; };
 		427D0A0726D0235600B349D5 /* Interpreter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interpreter.swift; sourceTree = "<group>"; };
 		427D0A1A26D0298000B349D5 /* init.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = init.scm; sourceTree = "<group>"; };
-		427D0A1C26D02DBD00B349D5 /* init.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = init.scm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +71,7 @@
 		427D09E426D0233900B349D5 = {
 			isa = PBXGroup;
 			children = (
-				427D0A1C26D02DBD00B349D5 /* init.scm */,
+				427D0A0826D0235600B349D5 /* Resources */,
 				427D09EF26D0233900B349D5 /* Scheme-Swift-Xcode10.1 */,
 				427D09EE26D0233900B349D5 /* Products */,
 			);
@@ -96,7 +97,6 @@
 				427D09FB26D0235600B349D5 /* Model.swift */,
 				427D09F826D0235500B349D5 /* Printer.swift */,
 				427D09FC26D0235600B349D5 /* Reader.swift */,
-				427D0A0826D0235600B349D5 /* Resources */,
 				427D09FF26D0235600B349D5 /* Selftest.swift */,
 				427D09F726D0235500B349D5 /* SymbolTable.swift */,
 			);

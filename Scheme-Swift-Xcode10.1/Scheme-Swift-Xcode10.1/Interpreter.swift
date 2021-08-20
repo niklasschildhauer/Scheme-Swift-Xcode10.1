@@ -121,10 +121,13 @@ private extension Interpreter {
     /// Loads the init file to intialize a few basic functions and insert them into the
     /// global environment.
     private func loadInitFile() {
-        // Load
         let path = Bundle.main.path(forResource: "init", ofType: "scm")
-        if let path = path {
-            self.interpret(input: "(load \"\(path)\")")
-        }
+        
+        // Load files from bundle not possible from terminal projects.
+        // let path = Bundle.main.url(forResource: "init", withExtension: "scm")
+         if let path = path {
+             self.interpret(input: "(load \"\(path)\")")
+         }
+        
     }
 }
