@@ -122,12 +122,9 @@ private extension Interpreter {
     /// global environment.
     private func loadInitFile() {
         let path = Bundle.main.path(forResource: "init", ofType: "scm")
-        
-        // Load files from bundle not possible from terminal projects.
-        // let path = Bundle.main.url(forResource: "init", withExtension: "scm")
          if let path = path {
-             self.interpret(input: "(load \"\(path)\")")
+            // load statement
+            self.interpret(input: "(load \"\(path)\")")
          }
-        
     }
 }

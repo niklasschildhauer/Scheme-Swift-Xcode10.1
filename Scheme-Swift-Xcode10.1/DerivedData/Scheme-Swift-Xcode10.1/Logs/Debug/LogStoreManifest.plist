@@ -209,6 +209,35 @@
 			<key>uniqueIdentifier</key>
 			<string>60761E11-4977-4517-94A1-390C4FAD90CE</string>
 		</dict>
+		<key>67F70606-DE23-4C2C-907A-2AD739256FE7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>67F70606-DE23-4C2C-907A-2AD739256FE7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>timeStartedRecording</key>
+			<real>651181165.85220695</real>
+			<key>timeStoppedRecording</key>
+			<real>651181262.44746995</real>
+			<key>title</key>
+			<string>Debug Scheme-Swift-Xcode10</string>
+			<key>uniqueIdentifier</key>
+			<string>67F70606-DE23-4C2C-907A-2AD739256FE7</string>
+		</dict>
 		<key>7FDCC125-AD2C-4F78-889A-36B74F723D76</key>
 		<dict>
 			<key>className</key>

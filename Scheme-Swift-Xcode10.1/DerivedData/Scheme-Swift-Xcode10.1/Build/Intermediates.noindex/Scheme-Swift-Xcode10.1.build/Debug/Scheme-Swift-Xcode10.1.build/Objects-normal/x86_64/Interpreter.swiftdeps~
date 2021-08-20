@@ -13,11 +13,11 @@ depends-top-level:
 - !private "!"
 - !private "+"
 - "AssignmentPrecedence"
+- !private "Bundle"
 - !private "Environment"
 - !private "FloatLiteralType"
 - !private "IntegerLiteralType"
 - "Interpreter"
-- !private "NSBundle"
 - "PrinterDelegate"
 - !private "Reader"
 - "SchemeEnvironment"
@@ -38,18 +38,21 @@ depends-member:
 - !private ["SK", "init"]
 - !private ["SK", "init"]
 - !private ["Sb", "_getBuiltinLogicValue"]
-- !private ["So8NSBundleC", "mainBundle"]
+- !private ["So8NSBundleC", "main"]
+- !private ["So8NSBundleC", "path"]
 - !private ["s7CVarArgP", "_getBuiltinLogicValue"]
 - !private ["s7CVarArgP", "init"]
 - !private ["s7CVarArgP", "init"]
-- !private ["s7CVarArgP", "mainBundle"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "path"]
 - !private ["Sl", "init"]
 - !private ["Sl", "init"]
 - !private ["SL", "init"]
 - !private ["SL", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "init"]
-- !private ["s28CustomDebugStringConvertibleP", "mainBundle"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
 - !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
 - !private ["s29CustomPlaygroundQuickLookableP", "init"]
 - !private ["s29CustomPlaygroundQuickLookableP", "init"]
@@ -59,7 +62,8 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
 - !private ["s23CustomStringConvertibleP", "init"]
 - !private ["s23CustomStringConvertibleP", "init"]
-- !private ["s23CustomStringConvertibleP", "mainBundle"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "path"]
 - !private ["Se", "_getBuiltinLogicValue"]
 - !private ["Se", "init"]
 - !private ["Se", "init"]
@@ -75,7 +79,8 @@ depends-member:
 - !private ["SQ", "_getBuiltinLogicValue"]
 - !private ["SQ", "init"]
 - !private ["SQ", "init"]
-- !private ["SQ", "mainBundle"]
+- !private ["SQ", "main"]
+- !private ["SQ", "path"]
 - !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
 - !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
 - !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
@@ -86,9 +91,10 @@ depends-member:
 - !private ["SH", "_getBuiltinLogicValue"]
 - !private ["SH", "init"]
 - !private ["SH", "init"]
-- !private ["SH", "mainBundle"]
+- !private ["SH", "main"]
+- !private ["SH", "path"]
+- !private ["22Scheme_Swift_Xcode10_111InterpreterC", "Bundle"]
 - !private ["22Scheme_Swift_Xcode10_111InterpreterC", "Environment"]
-- !private ["22Scheme_Swift_Xcode10_111InterpreterC", "NSBundle"]
 - ["22Scheme_Swift_Xcode10_111InterpreterC", "PrinterDelegate"]
 - !private ["22Scheme_Swift_Xcode10_111InterpreterC", "Reader"]
 - ["22Scheme_Swift_Xcode10_111InterpreterC", "SchemeEnvironment"]
@@ -116,8 +122,10 @@ depends-member:
 - !private ["s25LosslessStringConvertibleP", "init"]
 - !private ["s10MirrorPathP", "init"]
 - !private ["s10MirrorPathP", "init"]
-- !private ["So8NSObjectC", "mainBundle"]
-- !private ["So8NSObjectP", "mainBundle"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "path"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "path"]
 - ["22Scheme_Swift_Xcode10_16ObjectO", "Error"]
 - ["22Scheme_Swift_Xcode10_16ObjectO", "FatalError"]
 - ["22Scheme_Swift_Xcode10_16ObjectO", "File"]
@@ -139,8 +147,8 @@ depends-member:
 - !private ["22Scheme_Swift_Xcode10_10A4FileV", "endOfFile"]
 - !private ["22Scheme_Swift_Xcode10_10A4FileV", "nextLine"]
 - !private ["22Scheme_Swift_Xcode10_10A4FileV", "path"]
+- !private ["22Scheme_Swift_Xcode10_10A19InterpreterProtocolP", "Bundle"]
 - !private ["22Scheme_Swift_Xcode10_10A19InterpreterProtocolP", "Environment"]
-- !private ["22Scheme_Swift_Xcode10_10A19InterpreterProtocolP", "NSBundle"]
 - !private ["22Scheme_Swift_Xcode10_10A19InterpreterProtocolP", "Reader"]
 - !private ["22Scheme_Swift_Xcode10_10A19InterpreterProtocolP", "Selftest"]
 - ["22Scheme_Swift_Xcode10_10A19InterpreterProtocolP", "String"]
@@ -188,7 +196,8 @@ depends-member:
 - !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
 - !private ["s33_ExpressibleByStringInterpolationP", "init"]
 - !private ["s33_ExpressibleByStringInterpolationP", "init"]
-- !private ["10Foundation27_KeyValueCodingAndObservingP", "mainBundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
 - !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
 - !private ["s21_ObjectiveCBridgeableP", "init"]
 - !private ["s21_ObjectiveCBridgeableP", "init"]

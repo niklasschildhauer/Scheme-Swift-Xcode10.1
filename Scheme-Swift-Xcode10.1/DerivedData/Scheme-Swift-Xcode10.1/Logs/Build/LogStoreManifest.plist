@@ -1050,6 +1050,35 @@
 			<key>uniqueIdentifier</key>
 			<string>D2C7BBB0-B9D3-4DFB-A2D3-E40CB7F53115</string>
 		</dict>
+		<key>D8F0B22F-12B7-4CCA-A248-5EA8ACC80744</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8F0B22F-12B7-4CCA-A248-5EA8ACC80744.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Scheme-Swift-Xcode10.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Scheme-Swift-Xcode10.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Scheme-Swift-Xcode10.1</string>
+			<key>timeStartedRecording</key>
+			<real>651181256.16067195</real>
+			<key>timeStoppedRecording</key>
+			<real>651181259.28527606</real>
+			<key>title</key>
+			<string>Build Scheme-Swift-Xcode10.1</string>
+			<key>uniqueIdentifier</key>
+			<string>D8F0B22F-12B7-4CCA-A248-5EA8ACC80744</string>
+		</dict>
 		<key>E1CAFC31-FDF3-46F5-8D81-BD51F8F2871E</key>
 		<dict>
 			<key>className</key>
