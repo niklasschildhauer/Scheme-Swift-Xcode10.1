@@ -16,47 +16,63 @@
 (define (fac n)
     ; a deep recursive version of factorial
     (if (< n 1)
-	1
+    1
     ;
-	(* n (fac (- n 1)))))
+    (* n (fac (- n 1)))))
 
 (define (fac_t n)
     ; a tail-recursive version of factorial
     (define (helper accu n)
-	(if (= n 1)
-	    accu
-	;
-	    (helper (* n accu) (- n 1))))
+    (if (= n 1)
+        accu
+    ;
+        (helper (* n accu) (- n 1))))
 
     (helper 1 n))
 
 (define (count-down n)
     ; for measurements
     (if (= n 0)
-	0
+    0
     ;
-	(count-down (- n 1))))
+    (count-down (- n 1))))
 
 (define (foreach list func)
     ; evaluate func for each element in a list
     (if (eq? list ())
-	#void
+    #void
     ; else
-	(begin
-	    (func (car list))
-	    (foreach (cdr list) func))))
+    (begin
+        (func (car list))
+        (foreach (cdr list) func))))
 
 (define (range start stop)
     ; generate a list start..stop - similar to python's range
     (define (helper start stop listTail)
-	(if (> start stop)
-	    listTail
-	;
-	    (helper start (- stop 1) (cons stop listTail))))
+    (if (> start stop)
+        listTail
+    ;
+        (helper start (- stop 1) (cons stop listTail))))
     (helper start stop ()))
     
-(define factorial (lambda (n) (if (= n 0) 1 (* n (factorial (- n 1))))))
-(define fibonacci (lambda (n) (if (< n 2) 1 (+ (fibonacci (- n 1)) (fibonacci (- n 2))))))
+(define pow
+    (lambda (num n)
+        (if (= n 0)
+            1
+            (* num (pow num (- n 1))))))
+    
+(define factorial
+  (lambda(n)
+    (if (= n 0)
+      1
+      (* n (factorial (- n 1))))))
+            
+(define fibonacci (lambda (n)
+  (if (<= n 2)
+      1
+      (+ (fib (- n 1)) (fib (- n 2))))))
+
+
 
 ; (load "compiler.scm")
 
